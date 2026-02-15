@@ -27,7 +27,8 @@
    
 <br>
 
-
+<img src="src/img/piano-virtual.png" />
+<img src="src/img/piano-virtual-teclas.png" />
 
 
 <h2>:computer:Tecnologias Utilizadas</h2>
